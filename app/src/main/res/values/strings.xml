@@ -1,0 +1,10 @@
+<resources>
+    <string name="CoinCap">CoinCap</string>
+    <string name="title_assets">Assets</string>
+    <string name="title_rates">Rates</string>
+    <string name="title_exchanges">Exchanges</string>
+
+    <string name="app_name">CoinCap</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_markets">Markets</string>
+</resources>

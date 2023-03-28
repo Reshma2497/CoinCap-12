@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_assets"
+        android:icon="@drawable/ic_assets_black_24dp"
+        android:title="@string/title_assets" />
+
+    <item
+        android:id="@+id/navigation_rates"
+        android:icon="@drawable/ic_rates_black_24dp"
+        android:title="@string/title_rates" />
+
+    <item
+        android:id="@+id/navigation_exchanges"
+        android:icon="@drawable/ic_exchanges_black_24d0"
+        android:title="@string/title_exchanges" />
+
+    <item
+        android:id="@+id/navigation_markets"
+        android:icon="@drawable/ic_markets_black_24dp"
+        android:title="@string/title_markets" />
+
+
+</menu>
